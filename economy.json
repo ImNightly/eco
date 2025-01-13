@@ -1,0 +1,45 @@
+{
+    "642305332046987295": {
+        "balance": -40,
+        "inventory": [
+            "Shovel",
+            "Useless_Child",
+            "Deer Corpse",
+            "Ant",
+            "Ant",
+            "Map",
+            "Ant",
+            "Bottle",
+            "Worm",
+            "Ant",
+            "Ant",
+            "Worm",
+            "Ant",
+            "Worm",
+            "Useless_Child",
+            "Ant",
+            "Worm",
+            "Worm",
+            "Treasure",
+            "Pickaxe",
+            "Gold",
+            "Bronze",
+            "Bronze",
+            "Platinum",
+            "Ant"
+        ],
+        "wallet": 490
+    },
+    "721989213662347314": {
+        "balance": 0,
+        "inventory": [
+            "Shovel",
+            "Worm",
+            "Map",
+            "Worm",
+            "Useless_Child",
+            "Pickaxe"
+        ],
+        "wallet": 100
+    }
+}
