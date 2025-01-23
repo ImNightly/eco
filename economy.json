@@ -35,11 +35,17 @@
         "balance": 0,
         "inventory": [
             "Shovel",
+            "Worm",
             "Map",
             "Worm",
             "Useless_Child",
             "Pickaxe"
         ],
-        "wallet": 150
+        "wallet": 100
+    },
+    "998998074204618772": {
+        "balance": 500,
+        "inventory": [],
+        "wallet": 0
     }
 }
