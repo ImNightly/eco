@@ -39,13 +39,9 @@
             "Map",
             "Worm",
             "Useless_Child",
-            "Pickaxe"
+            "Pickaxe",
+            "Bronze"
         ],
         "wallet": 100
-    },
-    "998998074204618772": {
-        "balance": 500,
-        "inventory": [],
-        "wallet": 0
     }
 }
